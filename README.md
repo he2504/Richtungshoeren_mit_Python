@@ -1,2 +1,1 @@
-ich will heim
-ich auch
+alles geläscht
