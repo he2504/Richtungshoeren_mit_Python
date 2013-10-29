@@ -1,1 +1,1 @@
-alles geläscht
+print " das Programm ist super!"
