@@ -1,7 +1,5 @@
 print " das Programm ist super!"
 
-neeeeeeeeeeeeeeee, echt beschissen
+neeeeeeeeeeeeeeee,
 
-Print "Wiso, ist doch ganz gut soweit?!"
-
-jajajajaja
+"Diese dope ist die deluxe version. Dieses dope ist die jacobs krönung des thc."
